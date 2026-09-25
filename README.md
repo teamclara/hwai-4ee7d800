@@ -54,7 +54,7 @@ The cap is below the model's 1M-token window so there's room left for a question
 
 Walk us through the design, the architecture, and the implementation. Tell us which choices were _good_, and which were _compromises_, and—of course—why.
 
-During the onsite we will also extend some of the ideas from [The Task](#the-task). e.g. can we get the context to be super small? can we generalize retrevials for arbitrary labs? the sky is the limit 🪁
+During the onsite we will also extend some of the ideas from [The Task](#the-task). e.g. can we get the context to be super small? can we generalize retrievals for arbitrary labs? the sky is the limit 🪁
 
 ## Other stuff
 
